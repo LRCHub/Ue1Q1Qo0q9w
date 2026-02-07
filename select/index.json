@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Ghosting",
+  "base_artist": "Mother Mother",
+  "createdAt": "2026-02-07T15:44:58.401643Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ghosting",
+      "artist": "Mother Mother",
+      "has_synced": true,
+      "path": "select/01_Ghosting_Mother_Mother.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ghosting",
+      "artist": "Woo feat. meenoi",
+      "has_synced": true,
+      "path": "select/02_Ghosting_Woo_feat._meenoi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ghosting",
+      "artist": "Biig Piig",
+      "has_synced": true,
+      "path": "select/03_Ghosting_Biig_Piig.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ghosting",
+      "artist": "Methyl Ethel",
+      "has_synced": false,
+      "path": "select/04_Ghosting_Methyl_Ethel.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ghosting",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/05_Ghosting_TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ghosting",
+      "artist": "A Life Once Lost",
+      "has_synced": false,
+      "path": "select/06_Ghosting_A_Life_Once_Lost.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ghosting",
+      "artist": "Blood On the Dance Floor",
+      "has_synced": false,
+      "path": "select/07_Ghosting_Blood_On_the_Dance_Floor.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ghosting",
+      "artist": "Freelance Whales",
+      "has_synced": true,
+      "path": "select/08_Ghosting_Freelance_Whales.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ghosting",
+      "artist": "Ov Hell",
+      "has_synced": false,
+      "path": "select/09_Ghosting_Ov_Hell.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ghosting",
+      "artist": "Daylight Dies",
+      "has_synced": true,
+      "path": "select/10_Ghosting_Daylight_Dies.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ghosting",
+      "artist": "Isolde Lasoen",
+      "has_synced": false,
+      "path": "select/11_Ghosting_Isolde_Lasoen.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hobi - Ghosting",
+      "artist": "Yura Yunita",
+      "has_synced": true,
+      "path": "select/12_Hobi_-_Ghosting_Yura_Yunita.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ghosting",
+      "artist": "Mother Mother",
+      "has_synced": true,
+      "path": "select/13_Ghosting_Mother_Mother.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ghosting",
+      "artist": "St. Albion feat. Max Frost",
+      "has_synced": false,
+      "path": "select/14_Ghosting_St._Albion_feat._Max_Frost.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ghosting",
+      "artist": "St. Albion",
+      "has_synced": false,
+      "path": "select/15_Ghosting_St._Albion.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ghosting",
+      "artist": "Mother Mother",
+      "has_synced": false,
+      "path": "select/pl_01_Ghosting_Mother_Mother.txt"
+    }
+  ]
+}
