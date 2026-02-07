@@ -1,0 +1,71 @@
+# Mother Mother – Ghosting
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:31.90] I've been ghosting, I've been ghosting along
+[00:37.24] Ghost in your house, ghost in your arms
+[00:56.74] 
+[00:42.10] When you're tossing, when you turn in your sleep
+[00:47.67] It's because I'm ghosting your dreams
+[01:06.17] 
+[00:52.96] And this is why I have decided
+[00:57.77] To pull these old white sheets from my head
+[01:19.27] 
+[01:03.17] I'll leave them folded neat and tidy
+[01:08.74] So that you'll know I'm out of hiding
+[01:27.24] 
+[01:16.00] Yeah
+[01:18.63] I've been ghosting, I've been ghosting along
+[01:40.63] 
+[01:23.10] Ghost in the world, ghost with no home
+[01:29.12] I remember, I remember the days
+[01:44.62] 
+[01:34.43] When I'd make you oh-so afraid
+[01:39.64] And this is why I have decided
+[01:54.64] 
+[01:44.94] To leave your house and home unhaunted
+[02:03.94] 
+[01:50.11] You don't need poltergeists for sidekicks
+[01:54.66] You don't need treats
+[01:58.88] And you don't need tricks
+[02:01.96] You don't need treats
+[02:04.79] You don't need tricks
+[02:07.07] You don't need no Halloween
+[02:10.05] You don't need treats
+[02:12.38] You don't need tricks
+[02:22.88] 
+[02:15.04] And you don't need me
+[02:25.54] 
+[02:26.63] Me
+[02:35.02] Hey, would it be so bad if I stayed
+[02:45.28] I'm just a ghost out of his grave
+[02:50.17] And I can't make love in my grave
+[02:55.94] I won't put white into your hair
+[03:00.76] I won't make noises in your stairs
+[03:05.85] I will be kind and I'll be sweet
+[03:21.85] 
+[03:11.14] If you stop staring straight through me
+[03:18.50] And this is why I have decided
+[03:33.50] 
+[03:24.06] To pull these old white sheets from my head
+[03:29.51] I'll leave them folded neat and tidy
+[03:47.51] 
+[03:34.57] So that you'll know I'm out of hiding
+[03:39.33] And this is why I have decided
+[03:54.33] 
+[03:44.68] To leave your house and home unhaunted
+[03:49.91] You don't need poltergeists for sidekicks
+[03:55.24] You don't need treats
+[03:58.32] And you don't need tricks
+[04:01.91] You don't need treats
+[04:04.86] You don't need tricks
+[04:07.46] You don't need no Halloween
+[04:10.05] You don't need treats
+[04:12.51] You don't need tricks
+[04:15.07] You don't need treats
+[04:17.62] You don't need no Hallows Eve
+[04:20.89] You don't need treats
+[04:23.04] You don't need tricks
+[04:25.72] And you don't need me
+```
